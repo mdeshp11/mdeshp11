@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdeshp11" alt="mdeshp11" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Software Development, Data Engineering/Data Analysis, Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Core Software Development, Full-stack, Data Engineering/Data Analysis, Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://milind-deshpande.netlify.app/](https://milind-deshpande.netlify.app/)
 

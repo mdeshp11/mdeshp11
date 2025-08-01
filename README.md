@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milind Deshpande</h1>
-<h3 align="center">I am a passionate Software Engineer from India currently based in Tempe, Arizona</h3>
+<h3 align="center">I am a passionate Full-stack software engineer from India currently based in Tempe, Arizona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdeshp11&label=Profile%20views&color=0e75b6&style=flat" alt="mdeshp11" /> </p>
 
